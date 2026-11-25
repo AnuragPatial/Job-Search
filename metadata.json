@@ -1,0 +1,6 @@
+{
+  "name": "EntryStack — Entry-Level Software & Salesforce Job Aggregator",
+  "description": "Live multi-portal job aggregator for Software Developer and Salesforce Developer roles with 0–2 years of experience, powered by JobSpy and open-source community portal adapters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
